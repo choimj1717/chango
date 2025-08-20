@@ -2,7 +2,7 @@
 from ultralytics import YOLO
 
 # 모델 로드
-model = YOLO("medel_1.pt")
+model = YOLO("seg_model_1.pt")
 
 # 웹캠에서 실시간 추론
 model.predict(
