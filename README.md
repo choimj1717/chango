@@ -18,9 +18,9 @@ A YOLO-based application that predicts the risk of structural collapse in buildi
 
 
 ```
-git clone https://github.com/gaeguli/smart_crack_detection.git
-cd smart_crack_detection
-uv sync --frozen
+git clone https://github.com/choimj1717/chango.git
+cd chango
+pip install -r
 ```
 
 <br>
