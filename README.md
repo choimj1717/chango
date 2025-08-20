@@ -27,7 +27,7 @@ uv sync --frozen
 
 # Usage
 ```
-uv run app.py
+python test3.py
 ```
 
 1. Click the `Open Img` to load a photo.
